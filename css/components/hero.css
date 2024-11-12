@@ -1,0 +1,29 @@
+.hero {
+  background-color: rgb(35, 35, 35);
+  color: white;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.button {
+  background-color: #f84d19;
+  color: white;
+  padding: 20px 28px;
+  font-size: 15px;
+  border-radius: 28px;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: rgb(221, 107, 42);
+}
